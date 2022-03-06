@@ -7,6 +7,10 @@
 *.obj
 *.elf
 
+
+config.h
+*.diff
+
 # Linker output
 *.ilk
 *.map
